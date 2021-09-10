@@ -15,3 +15,5 @@
 <!-- wp:list -->
 <ul><li>Requests</li><li>BeautifulSoup</li><li>Pandas<br></li></ul>
 <!-- /wp:list -->
+
+Blog: **https://scriptsfinanceiros.wordpress.com/2021/09/10/example-post-2/**
